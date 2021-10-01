@@ -38,19 +38,15 @@ A Typeface is a family of related fonts. Fonts refer to font weights, widths, an
 
 Typographic hierarchy is a system for organizing type that establishes an order of importance within the data, allowing the reader to easily find what they are looking for and navigate the content. Done right, typography can help guide the reader’s eye to where a section begins and ends, and consistent structure and style of the text throughout a webpage can help the user isolate information quickly.
 &nbsp;  
-
 The simplest way is to define our typography into three different levels:
 &nbsp;  
-
-**Level 1 (Headlines)**
+#### Level 1 (Headlines)
 The headlines are the most important content on the page. It’s usually big, bold font that first grabs the users attention.
 &nbsp;  
-
-**Level 2 (Subheadings)**
+#### Level 2 (Subheadings)
 Level two typography doesn’t stand out as much as level one, but it helps to visually sort the content into different sections. Level two typography is often used for subheadings, which hints to the reader what they are about to read.
 &nbsp;  
-
-**Level 3 (Body of text)**
+#### Level 3 (Body of text)
 Think of level three as the core of your message. If users were interested in your level one and level two typography, they will likely most likely ready level three. This is where you can go into more detail about your product, service, or topic and it’s typically in a smaller font. 
 &nbsp;  
 &nbsp;   
