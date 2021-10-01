@@ -4,10 +4,7 @@
 For this project I designed a simple webpage using the fundamental principles for UI design. Below, in this file, there is a description for each of the principles.
 
 #### [Figma file link](https://www.figma.com/file/w9SYDVe06gO0JubsaVx48L/UI-fundamentals-Design-example?node-id=0:1) 
-Please check comments in the Figma file, where I point out an example of how I used a specific principle. (Click the comment bubble to see the comments appear).
-
-
-
+Please check comments in the Figma file, where I point out an example of how I used a specific principle. (Click the comment bubble to see the comments appear).  
 
 ## Visual Hierarchy 
 
