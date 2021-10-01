@@ -45,8 +45,8 @@ The headlines are the most important content on the page. It’s usually big, bo
 &nbsp;  
 **Level 2 (Subheadings)**
 Level two typography doesn’t stand out as much as level one, but it helps to visually sort the content into different sections. Level two typography is often used for subheadings, which hints to the reader what they are about to read.
-&nbsp;    
- **Level 3 (Body of text)**
+&nbsp;  
+**Level 3 (Body of text)**
 Think of level three as the core of your message. If users were interested in your level one and level two typography, they will likely most likely ready level three. This is where you can go into more detail about your product, service, or topic and it’s typically in a smaller font. 
 &nbsp;  
 &nbsp;   
