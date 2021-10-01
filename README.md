@@ -27,13 +27,13 @@ By arranging elements on your page with enough whitespace you can avoid creating
 
 Typography is one of the fundamentals of design and paramount to a good user experience, and has to be toughtfully considered in terms of reability, accessibility, and hierarchy. Hierarchy can be accomplished with typography by employing the use of contrast, paddings, alternating text sizes, typefaces and margins.
 
-### Typeface and font
+#### Typeface and font
 
 A Typeface is a family of related fonts. Fonts refer to font weights, widths, and styles of that typeface.The basic typefaces are serif, sans-serif, monospace and decorative.  
 
 Consistency in typeface use is key to avoiding clutered and creating confusion for the user. It helps in navigating information and as the user starts to notice a pattern.
 
-### Typographic hierarchy
+#### Typographic hierarchy
 
 Typographic hierarchy is a system for organizing type that establishes an order of importance within the data, allowing the reader to easily find what they are looking for and navigate the content. Done right, typography can help guide the reader’s eye to where a section begins and ends, and consistent structure and style of the text throughout a webpage can help the user isolate information quickly.
 
